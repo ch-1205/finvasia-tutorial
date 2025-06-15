@@ -1,0 +1,20 @@
+FINVASIA_FNO_URL = 'https://api.shoonya.com/NFO_symbols.txt.zip'
+SAVE_ZIP_FILE_NAME = 'NFO_symbols.txt.zip'
+
+EXCHANGE_NSE = 'NSE'
+EXCHANGE_NFO = 'NFO'
+NIFTY = 'NIFTY INDEX'
+
+EXPIRY_DATE = '12'
+EXPIRY_MONTH = 'DEC'
+
+OPEN_NFO_FILE = 'NFO_symbols.txt'
+
+SELL = 'S'
+BUY = 'B'
+QUANTITY = 25
+PRODUCT_TYPE_MIS = 'I'
+PRICE_TYPE_MARKET = 'MKT'
+PRICE_TYPE_SL_LMT = 'SL-LMT'
+
+
